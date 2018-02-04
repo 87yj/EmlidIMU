@@ -9,3 +9,5 @@ https://github.com/87yj/EmlidIMU/blob/master/Reach%20IMU%20setup.pdf
 Sources (beyond the threads in the emlid board) deserving credit:
 https://github.com/RTIMULib/RTIMULib2/tree/master/Linux
 http://kingtidesailing.blogspot.com/2016/02/how-to-setup-mpu-9250-on-raspberry-pi_25.html
+
+The Create_PAOGI.py script can be used to read Emlid GPS and IMU data and create a proprietary $PAOGI NMEA sentence that can be sent to AgOpenGPS software.
