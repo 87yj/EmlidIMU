@@ -8,8 +8,8 @@ import math
 import socket
 import select
 import re
-import utm
-import pynmea2
+#import utm
+#import pynmea2
 from datetime import datetime
 
 
